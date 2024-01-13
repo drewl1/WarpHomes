@@ -1,0 +1,13 @@
+name: WarpHomes
+version: '${project.version}'
+main: me.drewl.warphomes.Main
+api-version: '1.20'
+commands:
+  sethome:
+    description: Sets a home where the user is standing
+  home:
+    description: Teleports user to the specified home
+  homes:
+    description: Opens and lists all the homes of the user
+  delhome:
+    description: Deletes a specified home

@@ -1,0 +1,8 @@
+# WarpHomes Configuration
+
+# Player home data is stored here
+players:
+  homes:
+
+# The default amount of homes a player can set without a sethome permission
+default-Allowed-Homes: 3
